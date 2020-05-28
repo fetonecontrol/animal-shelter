@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+h2 {
+  font-family: Georgia;
+}
+.dogs {
+  width: 30%; 
+  float: right;
+  font-style: italic;
+}
+.cats {
+  width: 30%;
+  float: left;
+  font-weight: 400;
+  font-family: helvetica;
+  font-style: oblique;
+}
+.dogs li {
+  color: blue;
+  font-size: x-large;
+}
+.cats li {
+  color: red;
+}
