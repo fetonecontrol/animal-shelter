@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 32px;
+}
+.dogs h2 {
+  float: right;
+  font-style: italic;
+}
+.cats h2 {
+  float: left;
+  font-weight: 400;
+  font-family: helvetica;
+  font-style: oblique;
+}
